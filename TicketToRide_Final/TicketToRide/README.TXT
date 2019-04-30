@@ -8,4 +8,4 @@ HOW TO START THIS PROJECT: Open the project, and run the main
 			   method of the Board class
 AUTHORS: Matthew Pigliavento, Jonathan Pratico, Grant Boughton
          Sara Lopez, Serene Medina
-USER INSTRUCTIONS: Gameplay instructions included in project directory
+USER INSTRUCTIONS: Gameplay instructions included in project directory---> tt-mc5_us-pa_rules_2015.pdf
